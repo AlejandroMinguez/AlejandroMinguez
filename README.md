@@ -2,6 +2,7 @@
 ># ¡Bienvenido/a a mi Repositorio!
 [`Alejandro Minguez`](https://github.com/AlejandroMinguez)
 `Desarrollo de Aplicaciones Multiplataforma`
+[git.md](https://github.com/AlejandroMinguez/AlejandroMinguez/blob/main/git.md)
 
 ---
 # Etiquetas Markdown
@@ -36,7 +37,6 @@
 - **<u></u>**: <u>Texto subrayado</u>
 ```
 ---
-[git.md`](https://github.com/AlejandroMinguez/AlejandroMinguez/blob/main/git.md)
 
 ## Acerca de Mí
 
