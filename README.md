@@ -12,7 +12,6 @@
 - Desarrollo Web Full Stack
 - Inteligencia Artificial y Aprendizaje Automático
 - Programación Competitiva
-cd 
 
 ## Mis proyectos
 [`Calculadora en Java`](https://github.com/AlejandroMinguez/JavaCalculator.git)
