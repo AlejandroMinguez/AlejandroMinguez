@@ -1,6 +1,5 @@
 
 ># ¡Bienvenido/a a mi Repositorio!
-[`Alejandro Minguez`](https://github.com/AlejandroMinguez)
 `Desarrollo de Aplicaciones Multiplataforma`
 
 ## Acerca de Mí
@@ -14,6 +13,11 @@
 - Inteligencia Artificial y Aprendizaje Automático
 - Programación Competitiva
 cd 
+
+## Mis proyectos
+[`Calculadora en Java`](https://github.com/AlejandroMinguez/JavaCalculator.git)
+
+[![Calculadora.png](https://i.postimg.cc/4yVPd9Y2/image.png)](https://postimg.cc/rRyxZzC5)
 ## Colaboración
 
 ¡Me encantaría colaborar contigo en proyectos interesantes! Si tienes ideas para proyectos, necesitas ayuda con el desarrollo de software o simplemente quieres charlar sobre tecnología, no dudes en contactarme. Estoy abierto a nuevas oportunidades de aprendizaje y crecimiento conjunto.
