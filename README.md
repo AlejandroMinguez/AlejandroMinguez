@@ -2,41 +2,6 @@
 ># ¡Bienvenido/a a mi Repositorio!
 [`Alejandro Minguez`](https://github.com/AlejandroMinguez)
 `Desarrollo de Aplicaciones Multiplataforma`
-[git.md](https://github.com/AlejandroMinguez/AlejandroMinguez/blob/main/git.md)
-
----
-# Etiquetas Markdown
-
-## Encabezados
-```
-- **#**: H1
-- **##**: H2
-- **###**: H3
-```
-## Formato de Texto
-```
-- **\***: *Cursiva*
-- **\*\***: **Negrita**
-```
-## Listas
-```
-- **1.**: Lista ordenada
-- **-**: Lista desordenada
-```
-## Código
-```
-- **\`\`**: `codi`
-```
-## Otras Etiquetas
-```
-- **---**: Línea horizontal
-- **- [x]**: Lista de tareas (completada)
-- **- [ ]**: Lista de tareas (pendiente)
-- **:joy:**: Emoji risa
-- **--  --**: ~~Texto tachado~~
-- **<u></u>**: <u>Texto subrayado</u>
-```
----
 
 ## Acerca de Mí
 
